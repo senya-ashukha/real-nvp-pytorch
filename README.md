@@ -4,7 +4,7 @@ Real NVP PyTorch, Minimal Working Example
 # Citation
 Please cite this repository if it was useful for your research
 
-```@misc{Ashukha2018,
+```(text)@misc{Ashukha2018,
   author = {Arsenii, Ashukha},
   title = {Real NVP PyTorch, Minimal Working Example},
   year = {2018},
