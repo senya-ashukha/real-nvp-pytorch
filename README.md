@@ -17,4 +17,5 @@ Please cite this repository if it was useful for your research
   publisher = {GitHub},
   journal = {GitHub repository},
   howpublished = {\url{https://github.com/ars-ashuha/real-nvp-pytorch}},
-}```
+}
+```
