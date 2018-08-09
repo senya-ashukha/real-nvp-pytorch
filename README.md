@@ -18,4 +18,5 @@ Please cite this repository if it was useful for your research
   journal = {GitHub repository},
   howpublished = {\url{https://github.com/ars-ashuha/real-nvp-pytorch}},
 }
-```
+``` 
+Of course, do not forget to cite Density estimation using Real NVP (https://arxiv.org/abs/1605.08803).
