@@ -12,7 +12,7 @@ Please cite this repository if it was useful for your research
 ```
 @misc{Ashukha2018,
   author = {Arsenii, Ashukha},
-  title = {Real NVP PyTorch, Minimal Working Example},
+  title = {Real NVP PyTorch a Minimal Working Example},
   year = {2018},
   publisher = {GitHub},
   journal = {GitHub repository},
