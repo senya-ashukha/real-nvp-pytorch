@@ -1,4 +1,4 @@
-# Real PyTorch
+# Real NVP PyTorch
 Real NVP PyTorch (Density estimation using Real NVP, https://arxiv.org/abs/1605.08803).
 
 <p align="center">
